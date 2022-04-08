@@ -18,7 +18,9 @@
 * DataBases: MongoDB, mySQL.
 * IDEs: VS Code.
 
-#
+### Projects
+* **[StoPedia](https://github.com/mohammadBasher/stoPedia)**
+* **[EPlacements](https://github.com/mohammadBasher/EPlacementsAPI)**
 
 ### GitHub Stats
 ![Mohammad Basher's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadBasher&show_icons=true&theme=radical&show_icons=true)

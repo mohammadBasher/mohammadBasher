@@ -1,16 +1,17 @@
 ## Hi there, I'm Mohammad Basher 👋
 
-👨🏻‍💻 I'm an IT student with a knack for solving problems and diving into algorithms.
+👨🏻‍💻 IT Professional with a strong focus on problem-solving and algorithm design.
 
-🎓 I'm currently pursuing Btech from MNNIT-Allahabad,Prayagraj.
+🎓 B.Tech in Computer Science & Engineering from MNNIT, Allahabad (Prayagraj), with extensive experience in software development and technical solutions.
 
-💪 Currently learning new Technologies and FrameWorks to keep myself updated.
+💪 Continuously learning and adapting to emerging technologies and frameworks to stay at the forefront of the industry.
 
-👀 Interested in **Programming** and **Development**.
+👀 Passionate about programming, development, and building innovative solutions that drive business success.
 
-🌱 Currently trying to enhance my problem solving skills through a rigorous practice of Data Structures and Algorithms.
+🌱 Currently enhancing my expertise in Data Structures and Algorithms to optimize problem-solving capabilities and performance.
 
-📫 Can contact me via email : mohammadbasher098@gmail.com
+📫 Feel free to reach out via email: mohammadbasher098@gmail.com
+
 #
 ### Skills
 * Languages: C++,C,JavaScript.
